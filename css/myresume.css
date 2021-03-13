@@ -4,10 +4,27 @@ body {
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6  {
     font-family: 'Noto Sans TC', sans-serif;
-    text-transform: capitalize;
+
 }
 
 .subheading  {
     font-family: 'Noto Sans TC', sans-serif;
-    text-transform: capitalize;
+    font-size: 1.2rem;
+    font-weight: normal;
+}
+
+h1, h2, h3, h4, h5, h6, .subheading{
+    text-transform: none;
+}
+
+h1, .h1 {
+    font-size: 5rem;
+}
+
+p.lead {
+    font-size: 1.2rem;
+}
+
+.bg-primary {
+    background-image: url(文件/GitHub/kahyeee.github.io/assets/img/45-degree-fabric--light--1920x1080.png)
 }
