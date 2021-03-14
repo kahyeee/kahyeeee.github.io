@@ -25,4 +25,7 @@ p.lead {
     font-size: 1.2rem;
 }
 
-.bg-secondary
+.bg-primary {
+    background-color: #01B468
+    background-image: url(文件/GitHub/kahyeee.github.io/assets/img/bg.png)
+}
