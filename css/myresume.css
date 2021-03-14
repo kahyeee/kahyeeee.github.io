@@ -27,5 +27,5 @@ p.lead {
 
 .bg-primary {
     background-color: #01B468
-    background-image: url(文件/GitHub/kahyeee.github.io/assets/img/bg.png);
+    background-image: <img src="image/bg.png" alt="backgroundimage">
 }
