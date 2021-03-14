@@ -27,6 +27,6 @@ p.lead {
 
 .bg-primary {
     background-color: #01B468
-    background-image: url(.../bg.png)
+    background-image: url(..assets/img/bg.png)
     /This is mostly intended for prototyping; please download the pattern and re-host prodution environments.Thank you! */
 }
