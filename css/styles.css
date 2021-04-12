@@ -5038,7 +5038,7 @@ a.badge-dark:focus, a.badge-dark.focus {
 .list-group-item.disabled, .list-group-item:disabled {
   color: #6c757d;
   pointer-events: none;
-  background-color: #fff;
+  background-color: #008060;
 }
 .list-group-item.active {
   z-index: 2;
